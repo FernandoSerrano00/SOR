@@ -41,4 +41,6 @@ Uno de los implicados en estos hechos, el ex-portero y ahora directivo del Bayer
 La vuelta de Kylian Mbappé tras cumplir la cuarentena por el coronavirus entonó al Paris Saint-Germain, que ganó con autoridad en Niza (0-3) en la cuarta jornada de la Ligue 1 de Francia.A pesar de las bajas, secuelas del clásico con el Marsella de hace dos fechas, al conjunto de Thomas Tuchel le bastó con la reincorporación de Mbappé y el buen nivel de Ángel Di Maria.
 Con Neymar, Leandro Paredes, Larwin Kurzawa y Abdou Diallo sancionados y Juan Bernat lesionado, fue esta dupla la que marcó la diferenciaAmbos encarrilaron el partido. Sobre todo con la determinación del futbolista parisino, que en el minuto 38 emprendió una galopada que solo pudo frenar Hassane Kamara con una falta dentro del área. El penalti lo transformó Mbappé, que adelantó a los visitantes.El segundo tanto llegó en el tiempo añadido de la primera parte. Mbappé volvió a encarar la meta local y su disparo fue desviado por el portero argentino Walter Benítez. Di María, sin oposición, recogió el rechace y envió la pelota a la red.
 
-[Fuente 1](https://www.marca.com/)
+[Fuente 1](https://www.marca.com)
+[Fuente 2] (https://www.sport.es/es/)
+[Fuente 3 ] (https://as.com/)
