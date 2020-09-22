@@ -34,3 +34,18 @@ iOS es un sistema operativo móvil de la multinacional Apple Inc. Originalmente 
 Detrás de cada Mac está la potencia de macOS, un sistema operativo que te permite hacer cosas impensables en cualquier otro ordenador. La razón es muy sencilla, macOS se diseñó para el hardware en el que está instalado, y viceversa. Viene con un montón de apps y, gracias a iCloud, se asegura de que las fotos, los documentos y todas tus cosas se sincronicen en todos tus dispositivos. Por eso tu Mac se entiende a la perfección con el iPhone y otros dispositivos Apple. Además, está pensado para proteger tu privacidad y tu seguridad.
 Toda la informacion que quieras saber esta [aqui](https://www.apple.com/es/macos/what-is/)
 
+[Fuente1] (http://www.usandotecnologia.com/software/los-5-sistemas-operativos-mas-usados)
+
+[Fuente2] (http://lotomedia.com/5-de-los-sistemas-operativos-mas-comunes/)
+
+[Fuente3] (https://www.profesionalreview.com/2018/01/02/encuentran-importante-exploit-kernel-macos/)
+
+[Fuente4] (https://unaaldia.hispasec.com/2020/03/vulnerabilidad-en-ios-evita-que-se-cifre-el-trafico-a-traves-de-vpn.html)
+
+[Fuente5] (https://www.xataka.com/basics/todo-android-q-que-cuando-llega-cuales-sus-novedades)
+
+[Fuente6] (https://industriamusical.es/android-domina-el-79-del-mercado-de-smartphones/)
+
+[Fuente7] (https://www.cnet.com/es/noticias/la-guia-completa-a-microsoft-windows-10/)
+
+[Fuente8] (https://ubunlog.com/guia-de-ubuntu/)
